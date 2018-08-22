@@ -1,0 +1,10 @@
+.idea/
+*.xml
+*.xml
+*.pyc
+.venv/
+*.venv/
+venv/
+/venv
+database.json
+*.json
